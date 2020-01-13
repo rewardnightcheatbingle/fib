@@ -13,4 +13,3 @@ steps:
 - task: Bash@3
   inputs:
     filePath: 'fib.sh'
-    arguments: '1'
